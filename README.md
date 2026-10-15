@@ -10,20 +10,20 @@ Whether used for personal projects, small businesses, or a larger ordering platf
 
 ## Features
 
-- **Order Management** — Create, view, and manage customer orders.
-- **Order Tracking** — Monitor order details and status.
-- **Mobile-Friendly Interface** — Designed for an intuitive mobile experience.
-- **Responsive UI** — Adapts to different mobile screen sizes.
-- **Extensible Architecture** — Built to accommodate future features and integrations.
+- **Order Management**-Create, view, and manage customer orders.
+- **Order Tracking**-Monitor order details and status.
+- **Mobile-Friendly Interface**-Designed for an intuitive mobile experience.
+- **Responsive UI**-Adapts to different mobile screen sizes.
+- **Extensible Architecture**-Built to accommodate future features and integrations.
 
 > Note: Features should be updated to reflect what is currently implemented in the application.
 
 ## Tech Stack
 
-- **React Native** — Cross-platform mobile application development.
-- **JavaScript or TypeScript** — Application logic, depending on project configuration.
-- **Node.js and npm** — JavaScript development tooling.
-- **Git and GitHub** — Version control and source code hosting.
+- **React Native**-Cross-platform mobile application development.
+- **JavaScript or TypeScript**-Application logic, depending on project configuration.
+- **Node.js and npm**-JavaScript development tooling.
+- **Git and GitHub**-Version control and source code hosting.
 
 ## Getting Started
 
