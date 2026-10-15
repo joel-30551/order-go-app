@@ -11,7 +11,11 @@
     "ios": {
       "supportsTablet": true,
       "infoPlist": {
-        "LSApplicationQueriesSchemes": ["whatsapp", "mailto", "tel"]
+        "LSApplicationQueriesSchemes": [
+          "whatsapp",
+          "mailto",
+          "tel"
+        ]
       }
     },
     "android": {
@@ -42,7 +46,11 @@
           }
         }
       ],
-      "expo-secure-store"
+      "expo-secure-store",
+      "expo-font",
+      "expo-image",
+      "expo-status-bar",
+      "expo-web-browser"
     ],
     "experiments": {
       "typedRoutes": true,
