@@ -1,2 +1,2 @@
 # order-go-app
-An order management application for creating, managing, and tracking customer orders.
+An order management mobile application built with React Native.
